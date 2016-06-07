@@ -8,8 +8,6 @@ $(document).ready(function () {
 
     $toggle.toggleClass('fa-list').toggleClass('fa-th-large');
 
-   // $('.item').toggleClass('active');
-
     $('.item').each(function (index, value) {
       var $item = $(this);
 

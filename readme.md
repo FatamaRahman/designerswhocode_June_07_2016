@@ -1,6 +1,4 @@
-Beatport iOS UX prototypes
-===========
+## Designers Who Code
+### June 7, 2016
 
-This prototype is used to aid UX and product decisions and does not reflect the final product.
-# designerswhocode_6_7_16
-# designerswhocode_6_7_16
+Using HTML, CSS, and a tiny amount of JS to create a beautiful list transition.
